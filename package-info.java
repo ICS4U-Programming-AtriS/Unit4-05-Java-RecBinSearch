@@ -1,7 +1,7 @@
 /**
-* package-info file for NameOfProgram.
-*
-* @author  Atri Sarker
-* @version 1.0
-* @since   2025-Month-Day
-*/
+ * package-info file for RecBinSearch.
+ *
+ * @author Atri Sarker
+ * @version 1.0
+ * @since 2026-01-09
+ */
